@@ -6,7 +6,7 @@ The frontend is built using HTML5 and CSS3, backend using PHP and database manag
 
 # Steps to run the application
 1. First and foremost install Xampp in your local machine.
-2. Once its done download the files in this repo into a folder (you can name the folder as per your wish) 'Fashion-factiry' created mandatorily in the 'htdocs' folder. You can find it in C:\xampp.
+2. Once its done download the files in this repo into a folder (you can name the folder as per your wish) 'Fashion-factory' created mandatorily in the 'htdocs' folder. You can find it in C:\xampp.
 3. Open the folder in VS code or anyother editor of your choice if your interested to check the source code.
 4. Now open xampp app and click on Start button for both Apache and MySQL.
 5. Click admin button in the MySQL row. This opens a dashboard where the database can be created.
