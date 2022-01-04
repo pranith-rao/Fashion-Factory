@@ -115,7 +115,7 @@ if (isset($_POST['send'])) {
       </form>
     </div>
   </div>
-  <p class="copyright">Created By Pranith & Prathvi
+  <p class="copyright">Created By Pranith
     <span class="far fa-copyright"></span>2020 All rights reserved.
   </p>
 </footer>
